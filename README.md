@@ -1,5 +1,5 @@
 # ShogoAkiyama
 
-<img src="" alt="エビフライトライアングル" title="サンプル">
+<img src="https://github.com/ShogoAkiyama/PSO.wiki.git" alt="シミュレーション" title="サンプル">
 
 # PSO
