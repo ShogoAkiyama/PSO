@@ -1,5 +1,5 @@
 # ShogoAkiyama
 
-<img src="https://github.com/ShogoAkiyama/PSO.wiki.git" alt="シミュレーション" title="サンプル">
+<img src="https://github.com/ShogoAkiyama/PSO/blob/master/image/PSO.gif" alt="シミュレーション" title="サンプル">
 
 # PSO
