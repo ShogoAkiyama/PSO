@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1dd4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 5
+  lastUpdatedAtString: 2018-11-07T21:05:54.247+09:00
+  initializedAtString: 2018-11-07T20:59:34.546+09:00
+  entries:
+  - path: .DS_Store
+    fullPath: /Users/shogoakiyama/Meta Heuristics/.DS_Store
+    projectPath: .DS_Store
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: image/.DS_Store
+    fullPath: /Users/shogoakiyama/Meta Heuristics/image/.DS_Store
+    projectPath: image/.DS_Store
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/CurrentLayout.dwlt
+    fullPath: /Users/shogoakiyama/Meta Heuristics/Library/CurrentLayout.dwlt
+    projectPath: Library/CurrentLayout.dwlt
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/EditorInstance.json
+    fullPath: /Users/shogoakiyama/Meta Heuristics/Library/EditorInstance.json
+    projectPath: Library/EditorInstance.json
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/gfu/cache/branches.yaml
+    fullPath: /Users/shogoakiyama/Meta Heuristics/Library/gfu/cache/branches.yaml
+    projectPath: Library/gfu/cache/branches.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/gfu/cache/gitlocks.yaml
+    fullPath: /Users/shogoakiyama/Meta Heuristics/Library/gfu/cache/gitlocks.yaml
+    projectPath: Library/gfu/cache/gitlocks.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/gfu/cache/gitlog.yaml
+    fullPath: /Users/shogoakiyama/Meta Heuristics/Library/gfu/cache/gitlog.yaml
+    projectPath: Library/gfu/cache/gitlog.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/gfu/cache/gitstatusentries.yaml
+    fullPath: /Users/shogoakiyama/Meta Heuristics/Library/gfu/cache/gitstatusentries.yaml
+    projectPath: Library/gfu/cache/gitstatusentries.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/gfu/cache/gittrackingstatus.yaml
+    fullPath: /Users/shogoakiyama/Meta Heuristics/Library/gfu/cache/gittrackingstatus.yaml
+    projectPath: Library/gfu/cache/gittrackingstatus.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/gfu/cache/gituser.yaml
+    fullPath: /Users/shogoakiyama/Meta Heuristics/Library/gfu/cache/gituser.yaml
+    projectPath: Library/gfu/cache/gituser.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/gfu/cache/repoinfo.yaml
+    fullPath: /Users/shogoakiyama/Meta Heuristics/Library/gfu/cache/repoinfo.yaml
+    projectPath: Library/gfu/cache/repoinfo.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Temp/ProcessJobs/687ef035bc3db71521e912733acc0fc7.bakert
+    fullPath: /Users/shogoakiyama/Meta Heuristics/Temp/ProcessJobs/687ef035bc3db71521e912733acc0fc7.bakert
+    projectPath: Temp/ProcessJobs/687ef035bc3db71521e912733acc0fc7.bakert
+    originalPath: 
+    status: 1
+    staged: 0

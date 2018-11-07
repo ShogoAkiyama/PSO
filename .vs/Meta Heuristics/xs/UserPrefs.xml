@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{C5A13D93-34CF-B8F4-2B72-1BB0054F6B63}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scrpit/SpawnerScript.cs">
+    <Files>
+      <File FileName="Assets/Scrpit/PSOMgrScript.cs" Line="7" Column="25" />
+      <File FileName="Assets/Scrpit/SpawnerScript.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
